@@ -12,7 +12,7 @@
 10. **[JavaScript – objektové programování](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/10.%20JavaScript%20-%20objektové%20programování.md)**
 11. **[JavaScript – syntaxe, datové typy, funkce, promise](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/11.%20JavaScript%20-%20syntaxe%2C%20datové%20typy%2C%20funkce%2C%20promise.md)**
 12. **[Nasazení webu – výběr technologie, nasazení do provozu](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/12.%20Nasazení%20webu%20-%20výběr%20technologie%20pro%20provoz%2C%20nasazení%20webu%20do%20provozu.md)**
-13. **[Node.js – syntaxe, cesty, zpracování požadavků](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/13.%20NodeJS%20-%20syntax%2C%20cesty%2C%20zpracování%20požadavků.md)**
+13. **[Node.js – syntaxe, cesty, zpracování požadavků](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/13.%20NodeJS%20-%20syntaxe%2C%20cesty%2C%20zpracování%20požadavků.md)**
 14. **[Optimalizace webu – cache, CDN, načítání](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/14.%20Optimalizace%20webu%20-%20cache%2C%20CDN%2C%20načítání%20webu.md)**
 15. **[React](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/15.%20React.md)**
 16. **[Responzivita a přístupnost](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/16.%20Responzivita%20a%20přístupnost.md)**
