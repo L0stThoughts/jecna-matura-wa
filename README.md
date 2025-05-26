@@ -1,3 +1,5 @@
+### Vytvořeno pomocí ChatGPT, nemusí to být správně. Hlavně pamatujte... We ball
+
 1. **[Cookies a sessions – účel, obsah, tracking](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/01.%20Cookies%20a%20sessions%20-%20účel%2C%20obsah%2C%20tracking.md)**
 2. **[CSS – syntaxe, selektory, box model](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/02.%20CSS%20-%20syntaxe%2C%20selektory%2C%20box%20model.md)**
 3. **[CSS framework – Bootstrap a další technologie](https://github.com/L0stThoughts/jecna-matura-wa/blob/main/temata/03.%20CSS%20framework%20-%20Bootstrap%20a%20další%20technologie.md)**
